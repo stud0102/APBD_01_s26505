@@ -1,6 +1,7 @@
 APBD_01
 
 Opis projektu
+
 Prosta aplikacja konsolowa napisana w języku C# z wykorzystaniem platformy .NET.
 
 Program wyświetla komunikat powitalny „Hello, APBD!” oraz oblicza sumę liczb z tablicy { 2, 4, 6 }.
